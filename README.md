@@ -19,3 +19,8 @@ Ej.- cd ../../
 - 00-ShapeCircleRectanglePolygon (```cd assignments/00-ShapeCircleRectanglePolygon```)
 - 01-PersonaEstudianteMaestro (```cd assignments/01-PersonaEstudianteMaestro```)
 
+# Navegación - Home
+Para regresar al Home del repositorio, use:
+```
+cd /workspaces/TC1030.*
+```
