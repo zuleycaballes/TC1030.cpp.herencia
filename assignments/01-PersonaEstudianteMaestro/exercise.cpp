@@ -4,6 +4,10 @@
 
 int main() 
 {
+
+  std::cout << "Esto es una prueba de protección de ramas ";
+
+  
   Estudiante juan{"Juan",25,"ISD"}, laura{};
   Persona rosa{"Rosa", 8}, pedro{};
 
